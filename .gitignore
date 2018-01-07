@@ -1,5 +1,5 @@
 .binaries
-*-run.exe
+*.exe
 ms2inst.bat
 *.c32
 *.c64
