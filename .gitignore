@@ -1,0 +1,9 @@
+.binaries
+*-run.exe
+ms2inst.bat
+*.c32
+*.c64
+*.m32
+*.m64
+.emacs.d
+.viminfo
